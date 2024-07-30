@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+.container {
+  width: 80vw;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 100vh;
+}
+
+.search-container,
+h1,
+p {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: black;
+}
+
+#inputNum,
+#searchButton {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
